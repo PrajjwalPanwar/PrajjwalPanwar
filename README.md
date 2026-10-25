@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br><br>🔭 I’m currently working on Python, SQL, and data analytics projects<br><br>👯 I’m looking to collaborate on beginner-friendly Python, SQL, and software development projects<br><br>🤝 I’m looking for help with Data Structures and Algorithms, problem-solving, and building real-world projects<br><br>🌱 I’m currently learning C++, Data Structures and Algorithms, and improving my data analytics skills<br><br>💬 Ask me about Python, SQL, MySQL, Pandas, and my E-Commerce Data Analytics Project<br>⚡ Fun fact: I enjoy learning by building projects and solving problems!
+<br><br>🔭 I’m currently working on Python, SQL, and data analytics projects<br><br>👯 I’m looking to collaborate on beginner-friendly Python, SQL, and software development projects<br><br>🤝 I’m looking for help with Data Structures and Algorithms, problem-solving, and building real-world projects<br><br>🌱 I’m currently learning C++, Data Structures and Algorithms, and improving my data analytics skills<br><br>💬 Ask me about Python, SQL, MySQL, Pandas, and my E-Commerce Data Analytics Project<br>⚡ Fun fact: I enjoy learning by building projects and solving problems!
 
 
 ## 🌐 Socials:
